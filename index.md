@@ -11,9 +11,13 @@ Also interested in unsupervised learning such as spectral clustering, subspace c
 
 ## Publications
 
+* "Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders"  
+**Jiwoong Park** (*), Junho Cho (*), Hyung Jin Chang and Jin Young Choi (* equal contribution)
+IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2021
+
 * "Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning"  
-**Jiwoong Park**, Minsik Lee, Hyung Jin Chang, Kyuewang Lee and Jin Young Choi  
-IEEE International Conference on Computer Vision (**ICCV**), 2019 
+**Jiwoong Park**, Minsik Lee, Hyung Jin Chang, Kyuewang Lee and Jin Young Choi
+IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019 
 
 * "Learning Doubly Stochastic Affinity Matrix via Davis-Kahan Theorem"  
 **Jiwoong Park** and Taejeong Kim  

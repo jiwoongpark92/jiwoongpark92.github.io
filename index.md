@@ -1,6 +1,6 @@
 Ph. D. candidate  
 Department of ECE, Seoul National University, Korea  
-email: **ptywoong@gmail.com**  
+email: **ptywoong at gmail dot com**  
 
 I am a Ph.D candidate majoring graph-based machine learning at Perception and Intelligence Lab.
 

@@ -12,7 +12,7 @@ Also interested in unsupervised learning such as spectral clustering, subspace c
 ## Publications
 
 * "Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders"  
-**Jiwoong Park** (\*), Junho Cho (\*), Hyung Jin Chang and Jin Young Choi (* equal contribution)
+**Jiwoong Park** (\*), Junho Cho (\*), Hyung Jin Chang and Jin Young Choi (* equally contributed)
 IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2021
 
 * "Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning"  
@@ -33,6 +33,11 @@ Thesis: "Learning Doubly Stochastic Affinity Matrix through Two Different Ways"
 Advisor: Taejeong Kim
 
 * BSc in Electrical and Electronics Engineering, Chung-Ang University (Mar.2010 ~ Feb.2016)
+
+## Work Experiences
+* Research Intern (Jun.2020 ~ Aug.2020) 
+Mitsubishi Electric Research Laboratories (MERL)
+
 
 ## Awards and Honors
 

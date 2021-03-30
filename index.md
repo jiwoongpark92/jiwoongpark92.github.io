@@ -35,8 +35,8 @@ Advisor: Taejeong Kim
 * BSc in Electrical and Electronics Engineering, Chung-Ang University (Mar.2010 ~ Feb.2016)
 
 ## Work Experiences
-* Research Intern** (Jun.2020 ~ Aug.2020) 
-** Mitsubishi Electric Research Laboratories (MERL)
+* Research Intern** (Jun.2020 ~ Aug.2020)
+* Mitsubishi Electric Research Laboratories (MERL)
 
 
 ## Awards and Honors

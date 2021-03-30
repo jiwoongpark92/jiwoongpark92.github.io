@@ -36,8 +36,7 @@ Advisor: Taejeong Kim
 
 ## Work Experiences
 * Research Intern** (Jun.2020 ~ Aug.2020)
-* Mitsubishi Electric Research Laboratories (MERL)
-
+Mitsubishi Electric Research Laboratories (MERL)
 
 ## Awards and Honors
 

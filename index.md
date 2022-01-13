@@ -25,14 +25,14 @@ IEEE International Conference on Data Mining (**ICDM**), 2017 (Oral)
 
 ## Educations
 
-* PhD in Electrical and Computer Engineering, Seoul National University (Mar.2018 ~ Present)  
+* **PhD in Electrical and Computer Engineering, Seoul National University** (Mar.2018 ~ Present)  
 Advisor: Jin Young Choi
 
-* MSc in Electrical and Computer Engineering, Seoul National University (Mar.2016 ~ Feb.2018)  
+* **MSc in Electrical and Computer Engineering, Seoul National University** (Mar.2016 ~ Feb.2018)  
 Thesis: "Learning Doubly Stochastic Affinity Matrix through Two Different Ways"  
 Advisor: Taejeong Kim
 
-* BSc in Electrical and Electronics Engineering, Chung-Ang University (Mar.2010 ~ Feb.2016)
+* **BSc in Electrical and Electronics Engineering, Chung-Ang University** (Mar.2010 ~ Feb.2016)
 
 ## Work Experiences
 * **Research Intern** (Aug.2021 ~ Present)  

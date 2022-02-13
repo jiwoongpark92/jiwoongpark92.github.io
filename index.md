@@ -35,7 +35,7 @@ Advisor: Taejeong Kim
 * **BSc in Electrical and Electronics Engineering, Chung-Ang University** (Mar.2010 ~ Feb.2016)
 
 ## Work Experiences
-* **Research Intern** (Aug.2021 ~ Present)  
+* **Research Intern** (Aug.2021 ~ Feb.2022)  
 Naver Corp. 
 
 * **Research Intern** (Jun.2020 ~ Aug.2020)  

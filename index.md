@@ -11,6 +11,10 @@ Also interested in unsupervised learning such as spectral clustering, subspace c
 
 ## Publications
 
+* **"Contrastive Learning on Heterogeneous Graphs via Metanode-based Message Passing Neural Networks"**  
+**Jiwoong Park**, Jisu Jeong, Kyungmin Kim and Jin Young Choi
+Under review, 2022
+
 * **"Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders"**  
 **Jiwoong Park** (\*), Junho Cho (\*), Hyung Jin Chang and Jin Young Choi (* equally contributed)  
 IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2021

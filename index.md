@@ -47,7 +47,7 @@ Mitsubishi Electric Research Laboratories (MERL)
 
 ## Awards and Honors
 
-* **Distinguished Disseration Awards for Master (2018)**  
+* **Distinguished Dissertation Awards for Master (2018)**  
 Dept. of ECE, SNU  
 
 * **Google Conference and Travel Scholarships (2017)**  

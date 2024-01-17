@@ -11,6 +11,14 @@ Also interested in unsupervised learning such as spectral clustering, subspace c
 
 ## Publications
 
+* **"Latent 3D Graph Diffusion"**  
+Yuning You, Ruida Zhou, **Jiwoong Park**, Haotian Xu, Chao Tian, Zhangyang Wang and Yang Shen  
+International Conference on Learning Representations (**ICLR**), 2024
+
+* **"Confidence-Based Feature Imputation for Graphs with Partially Known Features"**  
+Daeho Um, **Jiwoong Park**, Seulki Park and Jin Young Choi  
+International Conference on Learning Representations (**ICLR**), 2023 
+
 * **"Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders"**  
 **Jiwoong Park** (\*), Junho Cho (\*), Hyung Jin Chang and Jin Young Choi (* equally contributed)  
 IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2021

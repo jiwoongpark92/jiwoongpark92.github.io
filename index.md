@@ -17,7 +17,11 @@ International Conference on Learning Representations (**ICLR**), 2024
 
 * **"Confidence-Based Feature Imputation for Graphs with Partially Known Features"**  
 Daeho Um, **Jiwoong Park**, Seulki Park and Jin Young Choi  
-International Conference on Learning Representations (**ICLR**), 2023 
+International Conference on Learning Representations (**ICLR**), 2023
+
+* **"Meta-node: A Concise Approach to Effectively Learn Complex Relationsips in Heterogeneous Graphs"**  
+**Jiwoong Park**, Jisu Jeong, Kyungmin Kim and Jin Young Choi \
+Arxiv 2022
 
 * **"Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders"**  
 **Jiwoong Park** (\*), Junho Cho (\*), Hyung Jin Chang and Jin Young Choi (* equally contributed)  

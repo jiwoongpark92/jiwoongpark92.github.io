@@ -1,7 +1,3 @@
-Postdoctoral researcher     
-Department of Electrical and Computer Engineering, Texas A&M University, USA     
-email: **jiwoong.park (at) tamu (dot) edu**  
-
 ## Research Interests
 
 I am interested in AI4Science especially generative models for drug-like molecules and proteins.  

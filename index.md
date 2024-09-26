@@ -1,15 +1,17 @@
-Ph. D. candidate  
-Department of ECE, Seoul National University, Korea  
-email: **ptywoong (at) gmail (dot) com**  
-
-I am a Ph.D candidate majoring graph-based machine learning at Perception and Intelligence Lab.
+Postdoctoral researcher     
+Department of Electrical and Computer Engineering, Texas A\&M University, USA     
+email: **jiwoong.park (at) tamu (dot) edu**  
 
 ## Research Interests
 
-I am interested in graph-based machine learning, especially on graph neural networks.  
-Also interested in unsupervised learning such as spectral clustering, subspace clustering, and dimensionality reduction.
+I am interested in AI4Science especially generative models for drug-like molecules and proteins.  
+Also interested in representation learning for graph-structured data and unsupervised learning.
 
 ## Publications
+
+* **"Equivariant Blurring Diffusion for Hierarchical Molecular Conformer Generation"**  
+**Jiwoong Park** and Yang Shen  
+Conference on Neural Information Processing Systems (**NeurIPS**), 2024
 
 * **"Latent 3D Graph Diffusion"**  
 Yuning You, Ruida Zhou, **Jiwoong Park**, Haotian Xu, Chao Tian, Zhangyang Wang and Yang Shen  
@@ -36,15 +38,18 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019
 IEEE International Conference on Data Mining (**ICDM**), 2017 (Oral)
 
 ## Educations
+* **Postdoc in Department of Electrical and Computer Engineering, Texas A\&M University** (Oct.2022 ~ Present)  
+Advisor: Yang Shen
 
-* **PhD in Electrical and Computer Engineering, Seoul National University** (Mar.2018 ~ Present)  
+* **PhD in Department of Electrical and Computer Engineering, Seoul National University** (Mar.2018 ~ Aug.2022)
+Dissertation: "Unsupervised Representation Learning for Homogeneous, Heterogeneous, and Tree-like Graphs"   
 Advisor: Jin Young Choi
 
-* **MSc in Electrical and Computer Engineering, Seoul National University** (Mar.2016 ~ Feb.2018)  
+* **MSc in Department of Electrical and Computer Engineering, Seoul National University** (Mar.2016 ~ Feb.2018)  
 Thesis: "Learning Doubly Stochastic Affinity Matrix through Two Different Ways"  
 Advisor: Taejeong Kim
 
-* **BSc in Electrical and Electronics Engineering, Chung-Ang University** (Mar.2010 ~ Feb.2016)
+* **BSc in Department of Electrical and Electronics Engineering, Chung-Ang University** (Mar.2010 ~ Feb.2016)
 
 ## Work Experiences
 * **Research Intern** (Aug.2021 ~ Feb.2022)  

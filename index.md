@@ -1,5 +1,5 @@
 Postdoctoral researcher     
-Department of Electrical and Computer Engineering, Texas A\&M University, USA     
+Department of Electrical and Computer Engineering, Texas A&M University, USA     
 email: **jiwoong.park (at) tamu (dot) edu**  
 
 ## Research Interests
@@ -38,7 +38,7 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019
 IEEE International Conference on Data Mining (**ICDM**), 2017 (Oral)
 
 ## Educations
-* **Postdoc in Department of Electrical and Computer Engineering, Texas A\&M University** (Oct.2022 ~ Present)  
+* **Postdoc in Department of Electrical and Computer Engineering, Texas A&M University** (Oct.2022 ~ Present)  
 Advisor: Yang Shen
 
 * **PhD in Department of Electrical and Computer Engineering, Seoul National University** (Mar.2018 ~ Aug.2022)

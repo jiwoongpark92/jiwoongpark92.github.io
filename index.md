@@ -7,7 +7,8 @@ Also interested in representation learning for graph-structured data and unsuper
 
 * **Equivariant Blurring Diffusion for Hierarchical Molecular Conformer Generation**  
 **Jiwoong Park** and Yang Shen  
-Conference on Neural Information Processing Systems (**NeurIPS**), 2024
+Conference on Neural Information Processing Systems (**NeurIPS**), 2024  
+Also accepted at NeurIPS 2024 Machine Learning in Structural Biology workshop
 
 * **Latent 3D Graph Diffusion**  
 Yuning You, Ruida Zhou, **Jiwoong Park**, Haotian Xu, Chao Tian, Zhangyang Wang and Yang Shen  

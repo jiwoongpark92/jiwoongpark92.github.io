@@ -5,6 +5,10 @@ Also interested in representation learning for graph-structured data and unsuper
 
 ## Publications
 
+* **Relation-Aware Diffusion for Heterogeneous Graphs with Partially Observed Features**    
+Daeho Um, Yoonji Lee, **Jiwoong Park**, Seulki Park, Yuneil Yeo, Seong Jin Ahn    
+International Conference on Learning Representations (**ICLR**), 2025    
+
 * **Equivariant Blurring Diffusion for Hierarchical Molecular Conformer Generation**  
 **Jiwoong Park** and Yang Shen  
 Conference on Neural Information Processing Systems (**NeurIPS**), 2024  
